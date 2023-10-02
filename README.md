@@ -7,7 +7,7 @@ I am **Muhammad Habiburrahman** working as **Programmer**. I am an Experienced *
 ---
 
 - 👀 I'm interested in **Fullstack Web Development**
-- 🌱 I’m currently learning **Golang - ReactJS**
+- 🌱 I’m currently learning **Laravel - ReactJS**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
